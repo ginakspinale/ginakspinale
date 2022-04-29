@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gina Spinale (@ginakspinale@gmaiolcom)
+- 👋 Hi, I’m Gina!
 - 👀 I’m interested in beginning a new career in data analytics
 - 🌱 I’m currently taking courses to complete Google's Data Analytics Certification program.
 - 💞️ I’m looking to collaborate on how to best master the skills needed to begin a career in data analytics - I'm new to this field and look forward to connecting with potential / future peers!
